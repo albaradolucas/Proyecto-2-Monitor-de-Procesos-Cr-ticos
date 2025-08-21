@@ -1,4 +1,4 @@
-#Proyecto 2 – Monitor de Procesos Críticos
+Proyecto 2 – Monitor de Procesos Críticos
 
 🎯 Objetivo: Crear un script que vigile si un proceso crítico (por ejemplo, nginx, apache2 o sshd) está corriendo.
 
